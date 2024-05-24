@@ -1,4 +1,4 @@
-# RRWA-CubeSat-Satellite
+# Mechanical Design of a Reconfigurable Array of Reaction Wheels based on the Möbius Strip for the Attitude Control of CubeSat Satellites.
 An innovative project to continue exploring the applications of the Möbius-Lechuga Strip, related to attitude actuators. 
 
 ## Year: 2023 - Present. 
